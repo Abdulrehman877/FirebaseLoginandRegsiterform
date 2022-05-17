@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262018834239",
+    "project_id": "testlogin-a12",
+    "storage_bucket": "testlogin-a12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262018834239:android:45922d73f6ed4b10babd8a",
+        "android_client_info": {
+          "package_name": "com.example.athenticatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262018834239-krd7b6r9hja2oq88gm5eanme34k94atr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaU0pi_jw5XuOaR6DV7wBfR3YUQpntkxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262018834239-krd7b6r9hja2oq88gm5eanme34k94atr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
